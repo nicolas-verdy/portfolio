@@ -162,8 +162,17 @@ if affichage_sel == "Mes Projets Ecole":
 
 
 if affichage_sel == "Mes Projets Perso":
-        st.header("")
-        st.image("Site-en-construction.jpg")
+        st.header("Site pour réserver sa place pour le footsal du mercredi entre amis")
+        st.image("https://footsal.fr/wp-content/uploads/2020/03/terrain-footsal-lille.jpg")
+
+        st.markdown(
+                '<p style="font-size:20px;">'
+                '<a href="https://les-footix-du-mercredi.streamlit.app/" target="_blank" style="text-decoration: none; color: blue;">'
+                'Lien vers le site des Footix du Mercredi'
+                '</a>'
+                '</p>',
+                unsafe_allow_html=True
+                )
   
 
 if affichage_sel == "Contacts et Liens":
