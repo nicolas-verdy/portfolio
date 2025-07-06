@@ -38,7 +38,7 @@ if affichage_sel == "Accueil":
 
 
 if affichage_sel == "Mon CV":
-        st.image("CV_NVERDY_DATA_IA_ENGINEER.jpg")
+        st.image("https://github.com/nicolas-verdy/portfolio/blob/main/CV_NVERDY_juil25.jpg")
 
         st.markdown(
         '<p style="font-size:20px;">'
