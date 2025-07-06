@@ -42,7 +42,7 @@ if affichage_sel == "Mon CV":
 
         st.markdown(
         '<p style="font-size:20px;">'
-        '<a href="https://github.com/nicolas-verdy/CV/raw/main/CV%20NVERDY%20DATA%20IA%20ENGINEER.pdf" target="_blank" style="text-decoration: none; color: blue;">'
+        '<a href="CV_NVERDY_juil25.pdf" target="_blank" style="text-decoration: none; color: blue;">'
         'Lien vers le CV à télécharger'
         '</a>'
         '</p>',
