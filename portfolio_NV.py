@@ -26,7 +26,7 @@ if affichage_sel == "Accueil":
         st.write(" ")
         st.write("Après 20 années passées dans les achats alimentaires dans le monde du Retail (POMONA 6 ans et AUCHAN RETAIL 15 ans), j'ai suivi un bootcamp intensif de 5 mois en Data Analyst entre Septembre 2024 et Février 2025.")
         st.write(" ")
-        st.write("Mon objectif est de poursuivre en alternance pour devenir chef de projet en intelligence artificielle et ingénieur data, en combinant mes compétences techniques avec une approche stratégique pour mener à bien des projets innovants.")
+        st.write("Mon objectif est de renforcer et d'approfondir mes compétences en analyse de données afin de les mettre pleinement au service de la performance commerciale. Je souhaite développer une approche stratégique, où la data devient un levier d’optimisation des ventes, de compréhension des comportements clients et de pilotage d’activité. Cette maîtrise me permettra de proposer des solutions innovantes, basées sur des indicateurs fiables et des analyses prédictives, pour améliorer la rentabilité et la prise de décision. Ces compétences seront des atouts essentiels pour contribuer efficacement à des projets à forte valeur ajoutée dans mes futures responsabilités professionnelles.")
         st.write(" ")
         st.write(" ")
         
